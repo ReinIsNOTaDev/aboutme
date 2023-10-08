@@ -10,3 +10,6 @@ body {
   bottom: 0px;
   width: 100%;
 }
+html {
+  padding: 0px;
+}
