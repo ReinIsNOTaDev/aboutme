@@ -1,5 +1,7 @@
 body {
   background-color: lightblue;
+  #nagy hibát követtem el
+  margin: 0;
 }
 .center {
   text-align: center;
@@ -9,7 +11,4 @@ body {
   position: absolute;
   bottom: 0px;
   width: 100%;
-}
-html {
-  padding: 0px;
 }
