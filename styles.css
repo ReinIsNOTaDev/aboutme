@@ -5,5 +5,7 @@ body {
   text-align: center;
 }
 .black {
-  background-color: black;
+  background-color: gray;
+  position: absolute;
+  bottom: 0px;
 }
