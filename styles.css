@@ -4,7 +4,6 @@ body {
 .center {
   text-align: center;
 }
-.centerbig {
-  text-align: center;
-  font-size: x-large;
+.black {
+  background-color: black;
 }
