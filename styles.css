@@ -7,7 +7,12 @@ body {
 }
 .centerbig {
   text-align: center;
-  size: 40%;
+  font-size: 150%;
+}
+.top {
+  position: fixed;
+  top: 0;
+  left: 0;
 }
 .black {
   background-color: gray;
