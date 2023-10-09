@@ -19,9 +19,6 @@ body {
 .black {
   background-color: gray;
   position: absolute;
-  bottom: 0;
+  bottom: 0%;
   width: 100%;
-}
-.rel {
-  position: relative;
 }
