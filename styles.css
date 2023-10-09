@@ -2,7 +2,7 @@ body {
   background-color: lightblue;
   margin: 0;
   font-family: 'Dosis';
-  font-size: 30px;
+  font-size: 20px;
 }
 .center {
   text-align: center;
@@ -19,6 +19,5 @@ body {
 .black {
   background-color: gray;
   position: absolute;
-  bottom: 0px;
   width: 100%;
 }
