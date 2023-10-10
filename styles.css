@@ -37,13 +37,13 @@ img {
 }
 .topleft {
   position: absolute;
-  top: 8px;
-  left: 16px;
-  font-size: 18px;
+  top: 4px;
+  left:4px;
+  font-size: 25px;
 }
 .bottomleft {
   position: absolute;
-  bottom: 8px;
-  left: 16px;
-  font-size: 10px;
+  bottom: 4px;
+  left: 4px;
+  font-size: 15px;
 }
