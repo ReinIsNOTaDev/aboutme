@@ -26,3 +26,18 @@ body {
   right:0%;
   width:20%;
 }
+.piccontainer {
+  position: relative;
+}
+.topleft {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  font-size: 18px;
+}
+.bottomleft {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+  font-size: 10px;
+}
